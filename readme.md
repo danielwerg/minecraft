@@ -4,8 +4,17 @@
 
 ## Table of Contents
 
+- [Launcher](#Launcher)
 - [Mods](#Mods)
 - [Vanilla Tweaks](#Vanilla-Tweaks)
+
+## Launcher
+
+<img src="https://polymc.org/img/favicon.png" height="64" align="left" />
+
+### PolyMC
+
+[polymc.org](https://polymc.org/) • [GitHub](https://github.com/PolyMC/PolyMC)
 
 ## Mods
 
@@ -338,7 +347,7 @@ Disable the telemetry introduced in 21w38a
 
 Utility • Fabric, Forge • Client
 
-[Modrinth](https://modrinth.com/mod/omega-mute) • [CurseForge Fabric](https://www.curseforge.com/minecraft/mc-mods/omega-mute-fabric) • [CurseForge Forge](https://www.curseforge.com/minecraft/mc-mods/omega-mute) • [GitHub Fabric](https://github.com/ricksouth/serilum-mc-mods/tree/master/sources-fabric/Omega%20Mute%20(Fabric)) • [GitHub Forge](https://github.com/ricksouth/serilum-mc-mods/tree/master/sources/Omega%20Mute)
+[Modrinth](https://modrinth.com/mod/omega-mute) • [CurseForge Fabric](https://www.curseforge.com/minecraft/mc-mods/omega-mute-fabric) • [CurseForge Forge](https://www.curseforge.com/minecraft/mc-mods/omega-mute) • [GitHub Fabric](<https://github.com/ricksouth/serilum-mc-mods/tree/master/sources-fabric/Omega%20Mute%20(Fabric)>) • [GitHub Forge](https://github.com/ricksouth/serilum-mc-mods/tree/master/sources/Omega%20Mute)
 
 ---
 
@@ -398,7 +407,7 @@ Utility • Fabric • Client
 
 Utility • Fabric, Forge • Client
 
-[Modrinth](https://modrinth.com/mod/silence-mobs) • [CurseForge Fabric](https://www.curseforge.com/minecraft/mc-mods/silence-mobs-fabric) • [CurseForge Forge](https://www.curseforge.com/minecraft/mc-mods/silence-mobs) • [GitHub Fabric](https://github.com/ricksouth/serilum-mc-mods/tree/master/sources-fabric/Silence%20Mobs%20(Fabric)) • [GitHub Forge](https://github.com/ricksouth/serilum-mc-mods/tree/master/sources/Silence%20Mobs)
+[Modrinth](https://modrinth.com/mod/silence-mobs) • [CurseForge Fabric](https://www.curseforge.com/minecraft/mc-mods/silence-mobs-fabric) • [CurseForge Forge](https://www.curseforge.com/minecraft/mc-mods/silence-mobs) • [GitHub Fabric](<https://github.com/ricksouth/serilum-mc-mods/tree/master/sources-fabric/Silence%20Mobs%20(Fabric)>) • [GitHub Forge](https://github.com/ricksouth/serilum-mc-mods/tree/master/sources/Silence%20Mobs)
 
 ---
 
@@ -491,7 +500,7 @@ Utility • Fabric • Client
 
 <img src="https://i.imgur.com/tu7WPwd.png" align="left" height="144" width="144" />
 
-### WorldEdit by sk89q, wizjany_, me4502 and octylFractal
+### WorldEdit by sk89q, wizjany\_, me4502 and octylFractal
 
 In-game Minecraft map editor - build bigger things more quickly!
 

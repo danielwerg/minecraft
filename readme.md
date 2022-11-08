@@ -10,7 +10,7 @@
 
 ## Launcher
 
-<img src="https://polymc.org/img/favicon.png" height="64" align="left" />
+<img src="https://polymc.org/img/favicon.png" height="74" align="left" />
 
 ### PolyMC
 

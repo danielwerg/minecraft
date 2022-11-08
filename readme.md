@@ -101,7 +101,7 @@ World Generation • Fabric • Server
 
 <img src="https://cdn.modrinth.com/data/yoJJjRRE/icon.png" align="left" height="144" width="144" />
 
-### Clear Despawn by Giselbaer and strikerrocker
+### Clear Despawn by Giselbaer
 
 Make items blink when they're about to despawn
 
@@ -155,7 +155,7 @@ Decoration, Utility • Fabric, Quilt • Client
 
 <img src="https://cdn.modrinth.com/data/uCdwusMi/icon.png" align="left" height="144" width="144" />
 
-### Distant Horizons by jeseibel, Morippi, coolGi, Ran, TomTheFurry and cola98765
+### Distant Horizons by jeseibel
 
 See farther without turning your game into a slide show
 
@@ -233,7 +233,7 @@ Storage, Utility • Fabric, Forge, Quilt • Client
 
 <img src="https://cdn.modrinth.com/data/YL57xq9U/icon.webp" align="left" height="144" width="144" />
 
-### Iris Shaders by coderbot and IMS212
+### Iris Shaders by coderbot
 
 A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
 
@@ -245,7 +245,7 @@ Decoration, Optimization • Fabric, Quilt • Client
 
 <img src="https://i.imgur.com/3LLrUsd.jpg" align="left" height="144" width="144" />
 
-### Item Scroller by masady and CFGrafanaStats
+### Item Scroller by masady
 
 Move items by mouse wheel scrolling, Shift + dragging, etc.
 
@@ -281,7 +281,7 @@ Utility • Fabric, Forge • Client
 
 <img src="https://i.imgur.com/iFtnVfd.jpg" align="left" height="144" width="144" />
 
-### Litematica by masady and CFGrafanaStats
+### Litematica by masady
 
 A modern schematic mod
 
@@ -293,7 +293,7 @@ Utility • Fabric, Forge • Client
 
 <img src="https://i.imgur.com/r1duNpF.png" align="left" height="144" width="144" />
 
-### MiniHUD by masady and CFGrafanaStats
+### MiniHUD by masady
 
 A "mini F3" HUD mod, with light level, spawn & slime chunk overlays etc.
 
@@ -305,7 +305,7 @@ HUD, Utility • Fabric • Client
 
 <img src="https://cdn.modrinth.com/data/mOgUt4GM/icon.png" align="left" height="144" width="144" />
 
-### Mod Menu by Prospector, jackassmc, NeusFear and modmuss50
+### Mod Menu by Prospector
 
 Adds a mod menu to view the list of mods you have installed.
 
@@ -425,7 +425,7 @@ Optimization • Fabric, Quilt • Client
 
 <img src="https://cdn.modrinth.com/data/AANobbMI/icon.png" align="left" height="144" width="144" />
 
-### Sodium by jellysquid3, IMS212 and burgerguy
+### Sodium by jellysquid3
 
 Modern rendering engine and client-side optimization mod for Minecraft
 
@@ -473,7 +473,7 @@ HUD • Fabric, Forge • Client
 
 <img src="https://i.imgur.com/3Mbc5xf.jpg" align="left" height="144" width="144" />
 
-### Tweakeroo by masady and CFGrafanaStats
+### Tweakeroo by masady
 
 Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc.
 
@@ -500,7 +500,7 @@ Utility • Fabric • Client
 
 <img src="https://i.imgur.com/tu7WPwd.png" align="left" height="144" width="144" />
 
-### WorldEdit by sk89q, wizjany\_, me4502 and octylFractal
+### WorldEdit by sk89q
 
 In-game Minecraft map editor - build bigger things more quickly!
 

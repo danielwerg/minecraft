@@ -1,4 +1,4 @@
-import { stripIndents, commaListsAnd } from 'common-tags';
+import { stripIndents } from 'common-tags';
 
 import { join } from 'path';
 
@@ -33,7 +33,7 @@ import { mods } from './mods';
           stripIndents`
             <img src="${mod.icon}" align="left" height="144" width="144" />
 
-            ### ${mod.name} by ${commaListsAnd`${mod.authors}`}
+            ### ${mod.name} by ${mod.authors[0]}
 
             ${mod.abstract}
 

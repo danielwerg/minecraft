@@ -24,7 +24,7 @@ Total count: **<!-- MODS_COUNT:START -->40<!-- MODS_COUNT:END -->**
 
 ---
 
-<img src="https://cdn.modrinth.com/data/hErQiboW/92d27e31158fffe3b621b9d551df030dd9f77c82.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/hErQiboW/92d27e31158fffe3b621b9d551df030dd9f77c82.png" align="left" height="146" width="146" />
 
 ### Advanced Tooltips by NebelNidas
 
@@ -39,7 +39,7 @@ Decoration, Utility • Fabric • Client
 
 ---
 
-<img src="https://i.imgur.com/IxjP4iq.png" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/IxjP4iq.png" align="left" height="146" width="146" />
 
 ### AFKTape by Kokeria
 
@@ -54,7 +54,7 @@ Utility • Fabric • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/EsAfCjCV/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/EsAfCjCV/icon.png" align="left" height="146" width="146" />
 
 ### AppleSkin by squeek502
 
@@ -69,7 +69,7 @@ HUD, Utility • Fabric, Forge • Client, Server
 
 ---
 
-<img src="https://i.imgur.com/tRHQe6i.png" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/tRHQe6i.png" align="left" height="146" width="146" />
 
 ### Carpet by gnembon
 
@@ -84,7 +84,7 @@ Utility • Fabric • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/3oX3JnAP/b61a36dcadef7fa1197ffa10443fc2b36018dd2f.jpeg" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/3oX3JnAP/b61a36dcadef7fa1197ffa10443fc2b36018dd2f.jpeg" align="left" height="146" width="146" />
 
 ### Carpet Sky Additions by jsorrell
 
@@ -99,7 +99,7 @@ World Generation • Fabric • Server
 
 ---
 
-<img src="https://cdn.modrinth.com/data/yoJJjRRE/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/yoJJjRRE/icon.png" align="left" height="146" width="146" />
 
 ### Clear Despawn by Giselbaer
 
@@ -111,7 +111,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/Z5b0cAlD/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/Z5b0cAlD/icon.png" align="left" height="146" width="146" />
 
 ### ClickThrough by Giselbaer
 
@@ -126,7 +126,7 @@ Utility • Fabric • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/7Coz83fv/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/7Coz83fv/icon.png" align="left" height="146" width="146" />
 
 ### Client Commands by Earthcomputer
 
@@ -141,7 +141,7 @@ Utility • Fabric, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/h3XWIuzM/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/h3XWIuzM/icon.png" align="left" height="146" width="146" />
 
 ### Dark Loading Screen by A5b84
 
@@ -153,7 +153,7 @@ Decoration, Utility • Fabric, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/uCdwusMi/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/uCdwusMi/icon.png" align="left" height="146" width="146" />
 
 ### Distant Horizons by jeseibel
 
@@ -168,7 +168,7 @@ HUD, Optimization, Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/eTy17BBS/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/eTy17BBS/icon.png" align="left" height="146" width="146" />
 
 ### Enhanced Attack Indicator by Minenash
 
@@ -180,7 +180,7 @@ Decoration, Utility • Fabric • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/LTM1f0yY/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/LTM1f0yY/icon.png" align="left" height="146" width="146" />
 
 ### Durability Viewer by Giselbaer
 
@@ -195,7 +195,7 @@ HUD, Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/ebxDDOKt/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/ebxDDOKt/icon.png" align="left" height="146" width="146" />
 
 ### Grid by Giselbaer
 
@@ -207,7 +207,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/sPYwFCE0/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/sPYwFCE0/icon.png" align="left" height="146" width="146" />
 
 ### Inventory Control Tweaks by supersaiyansubtlety
 
@@ -219,7 +219,7 @@ Utility • Fabric, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/O7RBXm3n/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/O7RBXm3n/icon.png" align="left" height="146" width="146" />
 
 ### Inventory Profiles Next by blackd
 
@@ -231,7 +231,7 @@ Storage, Utility • Fabric, Forge, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/YL57xq9U/icon.webp" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/YL57xq9U/icon.webp" align="left" height="146" width="146" />
 
 ### Iris Shaders by coderbot
 
@@ -243,7 +243,7 @@ Decoration, Optimization • Fabric, Quilt • Client
 
 ---
 
-<img src="https://i.imgur.com/3LLrUsd.jpg" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/3LLrUsd.jpg" align="left" height="146" width="146" />
 
 ### Item Scroller by masady
 
@@ -255,7 +255,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/yBW8D80W/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/yBW8D80W/icon.png" align="left" height="146" width="146" />
 
 ### LambDynamicLights by LambdAurora
 
@@ -267,7 +267,7 @@ Decoration, Utility • Fabric, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/YfOlc91N/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/YfOlc91N/icon.png" align="left" height="146" width="146" />
 
 ### Light Overlay by shedaniel
 
@@ -279,7 +279,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://i.imgur.com/iFtnVfd.jpg" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/iFtnVfd.jpg" align="left" height="146" width="146" />
 
 ### Litematica by masady
 
@@ -291,7 +291,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://i.imgur.com/r1duNpF.png" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/r1duNpF.png" align="left" height="146" width="146" />
 
 ### MiniHUD by masady
 
@@ -303,7 +303,7 @@ HUD, Utility • Fabric • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/mOgUt4GM/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/mOgUt4GM/icon.png" align="left" height="146" width="146" />
 
 ### Mod Menu by Prospector
 
@@ -315,7 +315,7 @@ Utility • Fabric, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/aC3cM3Vq/icon.jpg" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/aC3cM3Vq/icon.jpg" align="left" height="146" width="146" />
 
 ### Mouse Tweaks by YaLTeR
 
@@ -327,7 +327,7 @@ Storage, Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com//data/hg77g4Pw/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com//data/hg77g4Pw/icon.png" align="left" height="146" width="146" />
 
 ### No Telemetry by kb1000
 
@@ -339,7 +339,7 @@ Disable the telemetry introduced in 21w38a
 
 ---
 
-<img src="https://cdn.modrinth.com/data/2ots5RF5/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/2ots5RF5/icon.png" align="left" height="146" width="146" />
 
 ### Omega Mute by Serilum
 
@@ -351,7 +351,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn-raw.modrinth.com/data/edwFXb9k/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn-raw.modrinth.com/data/edwFXb9k/icon.png" align="left" height="146" width="146" />
 
 ### PaperDoll by tr7zw
 
@@ -363,7 +363,7 @@ HUD • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/Nv2fQJo5/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/Nv2fQJo5/icon.png" align="left" height="146" width="146" />
 
 ### Replay Mod by Johni0702
 
@@ -375,7 +375,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/nfn13YXA/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/nfn13YXA/icon.png" align="left" height="146" width="146" />
 
 ### Roughly Enough Items by shedaniel
 
@@ -387,7 +387,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com//data/1PmPJ4ss/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com//data/1PmPJ4ss/icon.png" align="left" height="146" width="146" />
 
 ### Silence! by Giselbaer
 
@@ -399,7 +399,7 @@ Utility • Fabric • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/rpmGvDKs/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/rpmGvDKs/icon.png" align="left" height="146" width="146" />
 
 ### Silence Mobs by Serilum
 
@@ -411,7 +411,7 @@ Utility • Fabric, Forge • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/FWumhS4T/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/FWumhS4T/icon.png" align="left" height="146" width="146" />
 
 ### Smooth Boot by UltimateBoomer
 
@@ -423,7 +423,7 @@ Optimization • Fabric, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/AANobbMI/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/AANobbMI/icon.png" align="left" height="146" width="146" />
 
 ### Sodium by jellysquid3
 
@@ -435,7 +435,7 @@ Optimization • Fabric, Quilt • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/H8CaAYZC/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/H8CaAYZC/icon.png" align="left" height="146" width="146" />
 
 ### Starlight by spottedleaf
 
@@ -447,7 +447,7 @@ Optimization • Fabric, Forge • Client, Server
 
 ---
 
-<img src="https://cdn.modrinth.com/data/MBLj38R0/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/MBLj38R0/icon.png" align="left" height="146" width="146" />
 
 ### Suggestion Tweaker by velizarbg
 
@@ -459,7 +459,7 @@ Utility • Fabric, Forge • Client, Server
 
 ---
 
-<img src="https://i.imgur.com/pE4OVkS.png" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/pE4OVkS.png" align="left" height="146" width="146" />
 
 ### ToroHealth Damage Indicators by ToroCraft
 
@@ -471,7 +471,7 @@ HUD • Fabric, Forge • Client
 
 ---
 
-<img src="https://i.imgur.com/3Mbc5xf.jpg" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/3Mbc5xf.jpg" align="left" height="146" width="146" />
 
 ### Tweakeroo by masady
 
@@ -483,7 +483,7 @@ Utility • Fabric • Client
 
 ---
 
-<img src="https://cdn.modrinth.com/data/GBeCx05I/icon.png" align="left" height="144" width="144" />
+<img src="https://cdn.modrinth.com/data/GBeCx05I/icon.png" align="left" height="146" width="146" />
 
 ### TweakerMore by fallen-breath
 
@@ -498,7 +498,7 @@ Utility • Fabric • Client
 
 ---
 
-<img src="https://i.imgur.com/tu7WPwd.png" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/tu7WPwd.png" align="left" height="146" width="146" />
 
 ### WorldEdit by sk89q
 
@@ -513,7 +513,7 @@ Utility, World Generation • Fabric, Forge • Client
 
 ---
 
-<img src="https://i.imgur.com/kVYzJ0S.png" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/kVYzJ0S.png" align="left" height="146" width="146" />
 
 ### Xaero's Minimap by xaero96
 
@@ -525,7 +525,7 @@ HUD, Utility • Fabric, Forge • Client, Server
 
 ---
 
-<img src="https://i.imgur.com/kVYzJ0S.png" align="left" height="144" width="144" />
+<img src="https://i.imgur.com/kVYzJ0S.png" align="left" height="146" width="146" />
 
 ### Xaero's World Map by xaero96
 

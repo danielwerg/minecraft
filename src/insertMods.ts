@@ -31,7 +31,7 @@ import { mods } from './mods';
         mod =>
           // eslint-disable-next-line @typescript-eslint/no-unsafe-call, @typescript-eslint/no-unsafe-return
           stripIndents`
-            <img src="${mod.icon}" align="left" height="144" width="144" />
+            <img src="${mod.icon}" align="left" height="146" width="146" />
 
             ### ${mod.name} by ${mod.authors[0]}
 

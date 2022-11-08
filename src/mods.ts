@@ -96,7 +96,7 @@ export const mods: Mod[] = [
     abstract: 'Cause all carpets are made of fabric?',
     description:
       'Carpet Mod is a mod for vanilla Minecraft that allows you to take full control of what matters from a technical perspective of the game.',
-    note: 'Adds `/tick warp` command, tps, mobcap',
+    note: 'See [Wiki](https://github.com/gnembon/fabric-carpet/wiki)',
     categories: ['Utility'],
     loaders: ['Fabric'],
     environments: ['Client'],

@@ -80,7 +80,7 @@ Utility • Fabric • Client
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) • [GitHub](https://github.com/gnembon/fabric-carpet)
 
 > **Note**
-> Adds `/tick warp` command, tps, mobcap
+> See [Wiki](https://github.com/gnembon/fabric-carpet/wiki)
 
 ---
 

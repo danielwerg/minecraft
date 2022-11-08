@@ -508,6 +508,9 @@ Utility, World Generation • Fabric, Forge • Client
 
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/worldedit) • [GitHub](https://github.com/enginehub/WorldEdit)
 
+> **Note**
+> See [Docs](https://worldedit.enginehub.org/en/latest)
+
 ---
 
 <img src="https://i.imgur.com/kVYzJ0S.png" align="left" height="144" width="144" />

@@ -844,7 +844,7 @@ export const mods: Mod[] = [
       'In-game Minecraft map editor - build bigger things more quickly!',
     description:
       'A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting. Use it in creative, or use it temporarily in survival.',
-    note: null,
+    note: 'See [Docs](https://worldedit.enginehub.org/en/latest)',
     categories: ['Utility', 'World Generation'],
     loaders: ['Fabric', 'Forge'],
     environments: ['Client'],

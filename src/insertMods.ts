@@ -17,6 +17,16 @@ import { mods } from './mods';
     ---
 
     ${mods
+      // NOTE: Tweaks to please vscode built-in markdown extension
+      .map(({ authors, urls, ...rest }) => ({
+        ...rest,
+        authors: authors.map(author => author.replace('_', '\\_')),
+        urls: urls.map(({ url, ...rest }) =>
+          ['(', ')'].some(item => url.includes(item))
+            ? { ...rest, url: `<${url}>` }
+            : { ...rest, url }
+        )
+      }))
       .map(
         mod =>
           // eslint-disable-next-line @typescript-eslint/no-unsafe-call, @typescript-eslint/no-unsafe-return

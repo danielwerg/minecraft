@@ -541,4 +541,4 @@ Utility • Fabric, Forge • Client, Server
 
 ## Vanilla Tweaks
 
-[1.19](https://vanillatweaks.net/share#Szskqw)
+[1.19](https://vanillatweaks.net/share#Nu7XUC)

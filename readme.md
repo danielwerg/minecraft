@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Launcher](#Launcher)
+- [Resources](#Resources)
 - [Mods](#Mods)
 - [Vanilla Tweaks](#Vanilla-Tweaks)
 
@@ -15,6 +16,16 @@
 ### PolyMC
 
 [polymc.org](https://polymc.org/) • [GitHub](https://github.com/PolyMC/PolyMC)
+
+---
+
+### Resources
+
+- [Resource Calculator](https://resourcecalculator.com/minecraft) is a website that can calculate required resources from a list of final requirements, and tell you how to get from the raw resources to the final resources.
+- [Minecraft Tools](https://minecraft.tools/en) — Minecraft crafting, enchant calculator, firework crafting, flat world generator and much more!
+- [Pixel Circle / Oval Generator](https://donatstudios.com/PixelCircleGenerator)
+
+---
 
 ## Mods
 

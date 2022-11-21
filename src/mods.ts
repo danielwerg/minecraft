@@ -778,6 +778,25 @@ export const mods: Mod[] = [
     ]
   },
   {
+    name: 'Toggle Sneak & Sprint',
+    icon: 'https://cdn.modrinth.com/data/NdhTKgqM/icon.png',
+    abstract: 'Adds buttons to customize Toggle Sneak & Sprint keybinds ',
+    description:
+      'This mod adds buttons to settings to customize Toggle Sneak & Toggle Sprint keybinds.',
+    note: null,
+    categories: ['Utility'],
+    loaders: ['Fabric'],
+    environments: ['Client'],
+    authors: ['Foksha'],
+    urls: [
+      { name: 'Modrinth', url: 'https://modrinth.com/mod/toggle-sneak-sprint' },
+      {
+        name: 'GitHub',
+        url: 'https://github.com/FokshaWasTaken/toggle-sneak-sprint'
+      }
+    ]
+  },
+  {
     name: 'ToroHealth Damage Indicators',
     icon: 'https://i.imgur.com/pE4OVkS.png',
     abstract: 'Shows health and damage received for mobs, NPCs, and players',

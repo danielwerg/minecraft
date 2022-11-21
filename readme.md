@@ -29,7 +29,7 @@
 
 ## Mods
 
-Total count: **<!-- MODS_COUNT:START -->40<!-- MODS_COUNT:END -->**
+Total count: **<!-- MODS_COUNT:START -->41<!-- MODS_COUNT:END -->**
 
 <!-- MODS:START -->
 
@@ -467,6 +467,18 @@ Improves the way suggestions are filtered when writing a command
 Utility • Fabric, Forge • Client, Server
 
 [Modrinth](https://modrinth.com/mod/suggestion-tweaker) • [CurseForge](https://www.curseforge.com/minecraft/mc-mods/suggestion-tweaker) • [GitHub](https://github.com/VelizarBG/suggestion-tweaker)
+
+---
+
+<img src="https://cdn.modrinth.com/data/NdhTKgqM/icon.png" align="left" height="146" width="146" />
+
+### Toggle Sneak & Sprint by Foksha
+
+Adds buttons to customize Toggle Sneak & Sprint keybinds 
+
+Utility • Fabric • Client
+
+[Modrinth](https://modrinth.com/mod/toggle-sneak-sprint) • [GitHub](https://github.com/FokshaWasTaken/toggle-sneak-sprint)
 
 ---
 

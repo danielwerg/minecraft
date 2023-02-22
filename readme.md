@@ -474,7 +474,7 @@ Utility • Fabric, Forge • Client, Server
 
 ### Toggle Sneak & Sprint by Foksha
 
-Adds buttons to customize Toggle Sneak & Sprint keybinds 
+Adds buttons to customize Toggle Sneak & Sprint keybinds
 
 Utility • Fabric • Client
 

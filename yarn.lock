@@ -9,6 +9,13 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
+"@danielwerg/eslint-config@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@danielwerg/eslint-config/-/eslint-config-0.1.0.tgz#c135688ca978d67ff6cb7fb8c7e4601ade9ad5d0"
+  integrity sha512-W32Ozql0TtAZorcxUmP1SHQX1Bs67qKNii7dDlrsxw0w7tjwqLbPEd+PsQ+kqve+T5METBXMa2ZXMTECbFwDbw==
+  dependencies:
+    eslint-define-config "^1.15.0"
+
 "@danielwerg/prettier-config@^0.0.0":
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/@danielwerg/prettier-config/-/prettier-config-0.0.0.tgz#6f79c899b38b440b9827953311d649f5bd755934"
@@ -552,6 +559,11 @@ escape-string-regexp@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
+
+eslint-define-config@^1.15.0:
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/eslint-define-config/-/eslint-define-config-1.15.0.tgz#dd9190d371a1d403735017d5789e9f2301340e3f"
+  integrity sha512-p6K61L6HrnDNRF2HzUsTdGaGPohO0TmSX/oQ0ttBhfApWHMyDcX+FCqSziCDywSf0U0bxe4e2HOfYho1nGHTLw==
 
 eslint-import-resolver-node@^0.3.7:
   version "0.3.7"

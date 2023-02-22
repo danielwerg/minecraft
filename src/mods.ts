@@ -1,3 +1,5 @@
+/* eslint-disable max-lines */
+
 interface Mod {
   name: string;
   icon: string;

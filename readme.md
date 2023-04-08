@@ -11,11 +11,13 @@
 
 ## Launcher
 
-<img src="https://polymc.org/img/favicon.png" height="70" align="left" />
+<img src="https://prismlauncher.org/img/favicon.png" height="70" align="left" />
 
-### PolyMC
+### Prism Launcher
 
-[polymc.org](https://polymc.org/) • [GitHub](https://github.com/PolyMC/PolyMC)
+[prismlauncher.org](https://prismlauncher.org) • [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+
+> CurseForge API key: `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm`
 
 ---
 

@@ -362,7 +362,7 @@ export const mods: Mod[] = [
   },
   {
     name: 'Iris Shaders',
-    icon: 'https://cdn.modrinth.com/data/YL57xq9U/icon.webp',
+    icon: 'https://cdn.modrinth.com/data/YL57xq9U/dc558eece920db435f9823ce86de0c4cde89800b.png',
     abstract:
       'A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs',
     description: 'Shaders, optifine alternative',

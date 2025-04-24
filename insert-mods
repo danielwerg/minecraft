@@ -1,0 +1,100 @@
+#!/bin/bash
+
+instances_dir="$HOME/.local/share/PrismLauncher/instances"
+key_prefix="MODS"
+img_size=146
+separator="│"
+
+sub_key=$1
+instance_name=$2
+
+if [ -z "$sub_key" ]; then
+  sub_keys_list=$(cat ./readme.md | rg "<\!-- ${key_prefix}_(.*):START" -or '$1')
+  sub_key=$(echo "$sub_keys_list" | fzf --reverse --cycle --prompt "sub_key: ")
+  [ -z "$sub_key" ] && exit 
+fi
+
+if [ -z "$instance_name" ]; then
+  instances_list=$(find "$instances_dir" -maxdepth 1 -type d | sed '1d' | xargs -I {} basename {} | grep -v "^\.")
+  # instances_list=$(tree -di -L 1 --noreport "$instances_dir" | sed '1d')
+  instance_name=$(echo "$instances_list" | fzf --reverse --cycle --prompt "instance: ")
+  [ -z "$instance_name" ] && exit
+fi
+
+# echo "sub_key: $sub_key"
+# echo "instance_name: $instance_name"
+
+instance_dir="$HOME/.local/share/PrismLauncher/instances/${instance_name}"
+
+if [ ! -d "$instance_dir" ]; then
+  echo "Instance not found"
+  exit
+fi
+
+mods_dir="${instance_dir}/minecraft/mods"
+mods_data_dir="${instance_dir}/minecraft/mods/.index"
+if [ ! -d "$mods_data_dir" ]; then
+  echo "Mods dirs doesn't have \".index\" dir"
+  exit
+fi
+
+modrinth_api="https://api.modrinth.com/v2"
+
+declare -A mod_environments=(
+  ["required"]="✔️"
+  ["optional"]="🟡"
+  ["unsupported"]="❌"
+  ["unknown"]="❓"
+)
+
+mods=""
+i=0
+
+# TODO modrinth rate limit is 300, use "/projects" instead?
+for file in "$mods_data_dir"/*; do
+  filename=$(cat "$file" | yq -p toml '.filename')
+  if [ ! -z "$(find "$mods_dir" -type f -name "${filename}.disabled")" ]; then
+    echo "$filename is disabled"
+    continue
+  fi
+  # name=$(cat "$file" | yq -p toml '.name')
+  # side=$(cat "$file" | yq -p toml '.side')
+  # loaders=$(cat "$file" | yq -p toml '.x-prismlauncher-loaders')
+  # versions=$(cat "$file" | yq -p toml '.x-prismlauncher-mc-versions')
+  id=$(cat "$file" | yq -p toml '.update.modrinth.mod-id')
+
+  project_url="$modrinth_api/project/${id}"
+  project=$(curl -Ss "$project_url")
+
+  title=$(echo "$project" | jq -r '.title')
+  slug=$(echo "$project" | jq -r '.slug')
+  description=$(echo "$project" | jq -r '.description')
+  categories=$(echo "$project" | jq -r '.categories | join(", ")')
+  [ -z "$categories" ] && categories="–"
+  icon_url=$(echo "$project" | jq -r '.icon_url')
+  source_url=$(echo "$project" | jq -r '.source_url')
+  client_side=$(echo "$project" | jq -r '.client_side')
+  server_side=$(echo "$project" | jq -r '.server_side')
+  url="https://modrinth.com/mod/${slug}"
+
+  mod=$(
+    cat << EOF
+<img src="${icon_url}" align="left" height="${img_size}" width="${img_size}" />
+
+##### ${title}
+
+${description}
+
+${categories} ${separator} 🖥️: ${mod_environments[${client_side}]} ${separator} 🗄️: ${mod_environments[${server_side}]}
+
+[Modrinth](${url}) ${separator} [Source](${source_url})
+EOF
+  )
+
+  [ -z "$mods" ] && mods="$mod" || mods=$(echo -e "$mods\n\n---\n\n$mod")
+
+  ((i++))
+done
+
+python ./insert-between.py -f ./readme.md -n "${key_prefix}_COUNT_${sub_key}" -c "$i"
+python ./insert-between.py -f ./readme.md -n "${key_prefix}_${sub_key}" -c "$mods" --newline

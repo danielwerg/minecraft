@@ -61,6 +61,15 @@
 
 #### Mods
 
+| key         | emoji |
+|-------------|-------|
+| client      | 🖥️    |
+| server      | 🗄️    |
+| required    | ✔️    |
+| optional    | 🟡    |
+| unsupported | ❌    |
+| unknown     | ❓    |
+
 Total count: **<!-- MODS_COUNT_1.21.5:START -->72<!-- MODS_COUNT_1.21.5:END -->**
 
 <!-- MODS_1.21.5:START -->

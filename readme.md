@@ -70,7 +70,7 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.5:START -->72<!-- MODS_COUNT_1.21.5:END -->**
+Total count: **<!-- MODS_COUNT_1.21.5:START -->79<!-- MODS_COUNT_1.21.5:END -->**
 
 <!-- MODS_1.21.5:START -->
 <img src="https://cdn.modrinth.com/data/lU8KbfG2/e5ee1b50379623f906c0e46882b827ece26c8dc8_96.webp" align="left" height="146" width="146" />
@@ -133,6 +133,18 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/vEC2jm6I/9c776473f367504c4eb98b3fb9c0e122c770bc74_96.webp" align="left" height="146" width="146" />
+
+##### Async
+
+Async is a Fabric mod designed to improve the performance of entities by processing them in parallel threads.
+
+mobs, optimization │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/async) │ [Source](https://github.com/AxalotLDev/Async)
+
+---
+
 <img src="https://cdn.modrinth.com/data/6tlhZmC5/icon.png" align="left" height="146" width="146" />
 
 ##### Axolotl Buckets
@@ -191,6 +203,18 @@ Completely client-sided!
 game-mechanics, storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/bundle-inventory) │ [Source](null)
+
+---
+
+<img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" align="left" height="146" width="146" />
+
+##### Concurrent Chunk Management Engine (Fabric)
+
+A Fabric mod designed to improve the chunk performance of Minecraft.
+
+optimization │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/c2me-fabric) │ [Source](https://github.com/RelativityMC/C2ME-fabric)
 
 ---
 
@@ -434,6 +458,18 @@ decoration │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp" align="left" height="146" width="146" />
+
+##### FerriteCore
+
+Memory usage optimizations
+
+optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/ferrite-core) │ [Source](https://github.com/malte0811/FerriteCore)
+
+---
+
 <img src="https://cdn.modrinth.com/data/siXFh9dn/icon.png" align="left" height="146" width="146" />
 
 ##### Fix Keyboard on Linux
@@ -491,6 +527,18 @@ A modern shader pack loader for Minecraft intended to be compatible with existin
 decoration, optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/iris) │ [Source](https://github.com/IrisShaders/Iris)
+
+---
+
+<img src="https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp" align="left" height="146" width="146" />
+
+##### Krypton
+
+A mod to optimize the Minecraft networking stack
+
+optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/krypton) │ [Source](https://github.com/astei/krypton)
 
 ---
 
@@ -746,6 +794,42 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/kwS02byl/4ca19b43027b2ac0e1c9580e52aa9cf7fd674e28.png" align="left" height="146" width="146" />
+
+##### Riding Mouse Fix
+
+Fixes the sluggishness of the mouse when riding on entities.
+
+optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/ridingmousefix) │ [Source](https://github.com/JustAlittleWolf/RidingMouseFix)
+
+---
+
+<img src="https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp" align="left" height="146" width="146" />
+
+##### ScalableLux
+
+A Fabric mod based on Starlight that improves the performance of light updates in Minecraft.
+
+optimization │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/scalablelux) │ [Source](https://github.com/RelativityMC/ScalableLux)
+
+---
+
+<img src="https://cdn.modrinth.com/data/4WWQxlQP/5207e4657a1d0e929506a8c07491a42fa73b0a29_96.webp" align="left" height="146" width="146" />
+
+##### ServerCore
+
+A mod that aims to optimize the minecraft server.
+
+optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/servercore) │ [Source](https://github.com/Wesley1808/ServerCore)
+
+---
+
 <img src="https://cdn.modrinth.com/data/PtjYWJkn/0df4fb22a11e1dcb5e83cb0aadd275b571aca7a9_96.webp" align="left" height="146" width="146" />
 
 ##### Sodium Extra
@@ -914,6 +998,18 @@ Reduces the minimum zoom of Xaero's World Map from 0.0625x to 0.0025x, so you ca
 adventure, transportation, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/xaero-zoomout) │ [Source](https://github.com/TerminalMC/XaeroZoomout)
+
+---
+
+<img src="https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp" align="left" height="146" width="146" />
+
+##### Xaero's Minimap
+
+Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+
+adventure, transportation, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/xaeros-minimap) │ [Source](null)
 
 ---
 
